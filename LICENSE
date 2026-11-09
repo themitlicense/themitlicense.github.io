@@ -1,0 +1,87 @@
+THE MIT LICENSE — MAINTAINER MANIFESTO
+CONTENT LICENSING AND REUSE NOTICE
+
+Copyright (c) 2026 Antonio Trento, for original project-authored material,
+except where another copyright holder is identified.
+
+IMPORTANT: THIS IS NOT THE MIT SOFTWARE LICENSE.
+
+This repository concerns the MIT License but is not an official MIT project.
+The rules below apply only to material in this repository for which the
+respective licensors own the necessary rights. They do not alter or replace
+the licenses of any third-party software.
+
+1. ORIGINAL EDITORIAL MATERIAL — CC BY 4.0
+
+Unless otherwise noted, original project-authored literary and editorial
+material (including the manifesto, explanatory articles, documentation,
+website copy, and project-owned translations) is made available under the
+Creative Commons Attribution 4.0 International License (CC BY 4.0).
+
+Full legal code:
+https://creativecommons.org/licenses/by/4.0/legalcode.en
+
+You may share and adapt this material, including commercially, subject to
+the license conditions, including appropriate attribution, an indication of
+changes, and a link to the license where reasonably practicable.
+
+Suggested attribution for reuse of substantial editorial material:
+"The MIT License — Maintainer Manifesto, created by Antonio Trento,
+https://github.com/themitlicense/themitlicense.github.io — CC BY 4.0."
+Add a description of your changes when applicable.
+
+Attribution must not suggest endorsement by the founder or this initiative.
+
+2. COPY-AND-PASTE ADOPTION MATERIAL — CC0 1.0
+
+To make adoption easy, project-owned badge designs, README adoption snippets,
+and short ready-to-copy support statements specifically presented for reuse
+in adoption-kit.md are dedicated to the public domain using Creative Commons
+CC0 1.0 Universal, to the extent the relevant rights are owned by the
+project's contributors and can legally be waived.
+
+Full legal code:
+https://creativecommons.org/publicdomain/zero/1.0/legalcode.en
+
+No permission, registration, donation, or attribution is required to use
+these project-owned adoption materials. Linking the badge to the manifesto
+is encouraged to preserve its meaning and help others discover the idea,
+but is not a condition of CC0.
+
+This dedication does NOT extend to third-party services or their assets,
+including badges rendered by Shields.io, which retain their own terms.
+
+3. SOFTWARE SOURCE CODE
+
+No software source-code license is granted by this notice. If source code is
+added to the repository, it must be accompanied by an explicit software
+license or another unambiguous rights notice applicable to that code.
+
+Do not assume that the CC BY 4.0 license for editorial content is a software
+license. Do not assume that code in this repository is licensed under MIT
+because the project discusses the MIT License.
+
+4. THIRD-PARTY MATERIAL AND TRADEMARKS
+
+The original MIT License text and third-party quotations, images, fonts,
+logos, templates, and dependencies are NOT relicensed by this document.
+They remain subject to their respective terms and applicable law.
+
+Creative Commons public licenses do not grant trademark rights. Nothing
+here authorizes anyone to imply official affiliation with or endorsement
+by the Massachusetts Institute of Technology, this initiative, or Antonio
+Trento. Use of the initiative's name or visual identity must not mislead.
+
+5. CONTRIBUTORS
+
+Contributors retain the copyrights they hold in their own original work.
+Contributions intended for inclusion must be offered under the applicable
+license identified in this notice, as described in CONTRIBUTING.md.
+Third-party material may be added only when its terms allow the proposed use.
+
+6. NO WARRANTY OR SUPPORT PROMISE
+
+Material is provided on an "as is" basis, to the extent permitted by law,
+without any separately assumed support, consulting, maintenance, or service
+commitment. The full license terms linked above govern the permissions for
+covered works; this summary is not a substitute for their legal code.
