@@ -1,0 +1,233 @@
+# THE MIT LICENSE — Project Philosophy & Vision
+
+## Identità del progetto
+
+**Nome organizzazione GitHub:** `themitlicense`
+
+**Progetto:** The MIT License — Free Code. Not Free Labor.
+
+**Fondatore:** Antonio Trento
+
+**Sito personale del fondatore:** https://antoniotrento.net
+
+**Obiettivo:** creare un progetto open source, provocatorio, riconoscibile e potenzialmente virale che sensibilizzi sviluppatori, aziende e utilizzatori sulle responsabilità etiche legate all'utilizzo del software distribuito con licenza MIT.
+
+## 1. La filosofia
+
+La MIT License è una delle licenze software più permissive al mondo.
+
+Puoi utilizzare, copiare, modificare, distribuire e commercializzare il software, rispettando le condizioni previste dalla licenza.
+
+Ma c'è un problema culturale.
+
+Troppi utilizzatori interpretano il concetto di software gratuito come se significasse anche:
+
+- Assistenza tecnica gratuita e illimitata.
+- Consulenza gratuita da parte dell'autore.
+- Correzione immediata dei bug.
+- Implementazione gratuita di nuove funzionalità.
+- Risposte obbligatorie alle issue.
+- Disponibilità continua del maintainer.
+- Nessuna necessità di riconoscere pubblicamente il lavoro originale oltre gli obblighi legali.
+- Nessuna responsabilità morale nel restituire qualcosa alla comunità.
+
+Questo atteggiamento trasforma una filosofia di condivisione in una relazione unilaterale, dove alcuni prendono e altri lavorano.
+
+**Il codice è libero. Il tempo, il lavoro e le competenze dell'autore non sono una risorsa gratuita a disposizione di chiunque.**
+
+## 2. La missione
+
+Promuovere una cultura open source basata su reciprocità, rispetto, riconoscimento del lavoro e collaborazione volontaria.
+
+Non vogliamo modificare la MIT License.
+
+Non vogliamo introdurre restrizioni.
+
+Non vogliamo obbligare nessuno a contribuire.
+
+Vogliamo ricordare agli utilizzatori che **avere il diritto di prendere qualcosa gratuitamente non significa avere il diritto di pretendere altro gratuitamente.**
+
+## 3. Il manifesto — 10 principi
+
+1. **Free Code. Not Free Labor.** Il codice è gratuito. Il tempo del maintainer no.
+
+2. **Give Credit.** Rispetta gli obblighi di attribuzione della licenza e riconosci il lavoro originale quando ne parli pubblicamente.
+
+3. **Contribute Back.** Se migliori un progetto, considera di condividere il miglioramento con la comunità.
+
+4. **Report Bugs Responsibly.** Una segnalazione utile contiene informazioni, log e istruzioni per riprodurre il problema.
+
+5. **Support Is Not an Entitlement.** Nessun autore è obbligato a fornire assistenza gratuita.
+
+6. **Read Before Asking.** Consulta documentazione, README e issue prima di chiedere aiuto.
+
+7. **Profit? Consider Giving Back.** Se costruisci un business sul lavoro open source di altri, valuta di contribuire economicamente o tecnicamente.
+
+8. **Contribute, Don't Just Complain.** Le critiche costruttive sono utili. Le pretese senza collaborazione no.
+
+9. **No Guaranteed Maintenance.** Una licenza MIT non garantisce aggiornamenti, manutenzione, disponibilità o correzioni.
+
+10. **Respect the Humans Behind the Code.** Dietro ogni repository ci sono persone, competenze, tempo e sacrifici.
+
+Questi principi costituiscono un manifesto etico volontario. Non aggiungono condizioni alla licenza MIT e non modificano i diritti concessi agli utilizzatori.
+
+## 4. Tono e comunicazione
+
+Il progetto deve essere:
+
+- Diretto, provocatorio e memorabile.
+- Ironico, intelligente e occasionalmente sarcastico.
+- Critico verso i comportamenti, non offensivo verso le persone.
+- Favorevole alle libertà dell'open source.
+- Contrario alla pretesa di ottenere lavoro gratuito.
+- Comprensibile anche a chi non sviluppa software.
+
+Evitare linguaggio aziendale, marketing artificiale e retorica motivazionale.
+
+Lo stile deve ricordare un manifesto nato dalla frustrazione reale di uno sviluppatore open source.
+
+## 5. Slogan
+
+**Principale:**
+
+"MIT License. Free Code. Not Free Labor."
+
+**Secondari:**
+
+- "Open Source Is Not Your Free IT Department."
+- "You Can Fork My Code. Not My Time."
+- "Free to Use. Not Free to Demand."
+- "The License Gives You Rights. Not an Employee."
+- "Take the Code. Respect the Creator."
+- "MIT Grants Permission. Not Personal Support."
+
+## 6. Obiettivo di viral marketing
+
+Il progetto ha anche un obiettivo esplicito di personal branding.
+
+**Promuovere la visibilità professionale di Antonio Trento attraverso un contributo originale alla cultura open source.**
+
+Il sito https://antoniotrento.net rappresenta il riferimento professionale del fondatore.
+
+La strategia non deve trasformare il manifesto in una pubblicità personale.
+
+Il contenuto deve avere valore indipendente, essere utile alla comunità e meritare di essere condiviso spontaneamente.
+
+La visibilità del fondatore deve derivare dall'attribuzione trasparente dell'iniziativa, dalla qualità del messaggio e dalla diffusione organica.
+
+Prevedere:
+
+- Collegamento discreto al sito personale del fondatore.
+- Indicazione chiara dell'autore del manifesto.
+- Repository GitHub pubblico.
+- Possibilità per altri maintainer di aderire e condividere il manifesto.
+- Badge Markdown da inserire nei README dei progetti MIT.
+- Frasi brevi facilmente condivisibili su GitHub, Reddit, Hacker News e social professionali.
+- Pagina pubblica con manifesto e spiegazione della distinzione fra diritti legali e responsabilità etiche.
+
+Il badge potrebbe riportare:
+
+**"MIT Licensed. Maintainer Time Not Included."**
+
+Il collegamento del badge deve puntare al manifesto, favorendone la diffusione.
+
+## 7. Principi non negoziabili
+
+Il progetto non deve mai affermare erroneamente che la MIT License obbliga a:
+
+- Pubblicare modifiche o contributi.
+- Fare donazioni all'autore.
+- Fornire pull request.
+- Garantire supporto reciproco.
+- Citare pubblicamente l'autore in ogni prodotto derivato, oltre quanto previsto dalla licenza.
+
+La libertà concessa dalla MIT resta pienamente valida.
+
+**Il nostro obiettivo non è cambiare le regole della licenza. È cambiare la mentalità di chi la utilizza.**
+
+## 8. Visione finale
+
+Vogliamo che uno sviluppatore possa inserire un semplice badge nel README del proprio repository e comunicare immediatamente:
+
+"Puoi utilizzare liberamente il mio software. Puoi modificarlo, rivenderlo e guadagnarci. Non ti chiedo nulla in cambio.
+
+Ma non confondere questa libertà con il diritto di pretendere il mio tempo.
+
+Se il mio lavoro ti è utile, rispettalo.
+
+Se puoi migliorarlo, contribuisci.
+
+Se ci guadagni, considera di restituire qualcosa.
+
+Se hai bisogno della mia consulenza, ricordati che il mio lavoro ha un valore."
+
+---
+
+## Il messaggio che deve rimanere impresso
+
+**THE MIT LICENSE**
+
+**TAKE THE CODE.**
+
+**NOT THE DEVELOPER.**
+
+*An open source awareness initiative by Antonio Trento — antoniotrento.net*
+
+
+
+## 9. Identità internazionale e indipendenza tecnologica
+
+**The MIT License** è un'iniziativa internazionale, non limitata alla comunità italiana.
+
+Il manifesto deve essere concepito fin dall'origine per un pubblico globale, con contenuti multilingua e un messaggio coerente in ogni lingua.
+
+### Principi editoriali
+
+- L'inglese rappresenta la lingua di riferimento del progetto.
+- Ogni traduzione deve conservare il significato, l'ironia, la provocazione e la forza comunicativa del manifesto originale.
+- Non realizzare traduzioni letterali quando queste rendono il messaggio artificiale o meno incisivo.
+- Il linguaggio deve essere comprensibile a sviluppatori indipendenti, maintainer, aziende e utilizzatori di software open source.
+- Il manifesto deve funzionare come contenuto autonomo, anche quando viene condiviso senza il contesto del sito.
+
+### Identità del sito
+
+Il progetto sarà pubblicato come sito statico multilingua realizzato con Jekyll.
+
+Il template grafico verrà fornito dal fondatore.
+
+Non proporre template alternativi, architetture, implementazioni tecniche o modifiche strutturali non richieste.
+
+Il compito prioritario è preservare l'identità filosofica, editoriale e comunicativa del progetto.
+
+### Principio di diffusione
+
+Il successo dell'iniziativa non si misura esclusivamente dalle visite al sito, ma dalla diffusione spontanea del suo messaggio.
+
+Vogliamo che gli sviluppatori possano utilizzare il manifesto per esprimere una posizione condivisa:
+
+**"I believe in open source. I don't believe in exploiting open source maintainers."**
+
+Il progetto deve diventare un riferimento riconoscibile per chi sostiene contemporaneamente due idee:
+
+1. Il software open source deve rimanere libero secondo i termini della sua licenza.
+2. La libertà di utilizzare il codice non giustifica pretese sul tempo, sul lavoro e sulla disponibilità degli autori.
+
+### Posizionamento del fondatore
+
+L'iniziativa è ideata da Antonio Trento — https://antoniotrento.net.
+
+Il collegamento al fondatore deve essere visibile ma non invasivo.
+
+Il valore del progetto deve precedere la promozione personale: **prima si diffonde un'idea utile, poi le persone scoprono chi l'ha creata.**
+
+### Distinzione fondamentale
+
+**The MIT License is a legal permission. The MIT Manifesto is a cultural statement.**
+
+Non confondere mai i due concetti.
+
+Il manifesto non rappresenta un documento ufficiale della licenza MIT, non sostituisce il testo legale e non introduce condizioni aggiuntive.
+
+È un'iniziativa indipendente di sensibilizzazione.
+
+**We are not changing the license. We are challenging the culture around it.**
