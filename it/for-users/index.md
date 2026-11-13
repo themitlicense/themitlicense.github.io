@@ -1,4 +1,4 @@
-﻿---
+---
 layout: default
 lang: it
 permalink: /it/for-users/
