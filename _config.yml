@@ -1,0 +1,9 @@
+title: "The MIT License — Maintainer Manifesto"
+description: "Free Code. Not Free Labor. An independent manifesto for respecting open-source maintainers."
+url: "https://themitlicense.github.io"
+baseurl: ""
+locale: en_US
+markdown: kramdown
+permalink: pretty
+exclude: ["build_site.py", "Gemfile.lock", "README.md", "branding.md", "foundation.md", "website-blueprint.md", "website-copy.md", "marketing.md", "adoption-kit.md", "launch-kit.md", "community.md", "prompt_iniziale.txt", "CONTRIBUTING.md", "LICENSE"]
+plugins: [jekyll-sitemap]

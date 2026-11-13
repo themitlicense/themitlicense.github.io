@@ -1,5 +1,11 @@
 # The MIT License — Maintainer Manifesto
 
+**Website:** [themitlicense.github.io](https://themitlicense.github.io/) · [English](https://themitlicense.github.io/en/) · [Italiano](https://themitlicense.github.io/it/)
+
+The Jekyll site has 18 English and Italian pages covering the manifesto, adoption kit, FAQ, practical issue guide, maintainers, users and teams, sharing, and project background. The canonical English manifesto is reproduced from `foundation.md`.
+
+To build locally with Ruby and Bundler: `bundle install` then `bundle exec jekyll serve`. Pushes to `main` run the GitHub Pages build and deployment workflow.
+
 ### Free Code. Not Free Labor.
 
 **You can use the code. You cannot claim the developer's time.**
