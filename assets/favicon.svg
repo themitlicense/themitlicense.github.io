@@ -1,1 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64"><rect width="64" height="64" rx="10" fill="#111318"/><path d="M18 14h-6v36h6m28-36h6v36h-6M28 18v28m8-28v28" fill="none" stroke="#FF6B35" stroke-width="5" stroke-linecap="square"/></svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="The MIT License">
+  <rect width="64" height="64" rx="10" fill="#111318"/>
+  <path fill="#F6F5F0" d="M11 45V17h7l14 17 14-17h7v28h-8V29L32 44 19 29v16z"/>
+  <path fill="#FF6B35" d="M11 50h42v4H11z"/>
+</svg>

@@ -1,1 +1,18 @@
-﻿{% assign lang = page.lang | default: 'en' %}<header class="site-header"><div class="wrap header-inner"><a class="brand" href="/{{ lang }}/" aria-label="The MIT License home"><span class="brand-mark">[|]</span><span>THE MIT LICENSE<small>{% if lang == 'it' %}MANIFESTO INDIPENDENTE{% else %}INDEPENDENT MANIFESTO{% endif %}</small></span></a><button class="menu-toggle" type="button" aria-expanded="false" aria-controls="primary-nav">Menu <span aria-hidden="true">☰</span></button><nav id="primary-nav" class="nav" aria-label="Primary"><a href="/{{ lang }}/manifesto/">{% if lang == 'it' %}Manifesto{% else %}Manifesto{% endif %}</a><a href="/{{ lang }}/adopt/">{% if lang == 'it' %}Adozione{% else %}Adopt{% endif %}</a><a href="/{{ lang }}/guide/">{% if lang == 'it' %}Guida{% else %}Guide{% endif %}</a><a href="/{{ lang }}/faq/">FAQ</a><a href="/{{ lang }}/about/">{% if lang == 'it' %}Progetto{% else %}About{% endif %}</a><a class="lang" href="{{ page.alternate | default: '/it/' }}">{% if lang == 'it' %}EN{% else %}IT{% endif %}</a><a class="nav-cta" href="/{{ lang }}/adopt/">{% if lang == 'it' %}Aggiungi al README ↗{% else %}Add to README ↗{% endif %}</a></nav></div></header>
+{% assign lang = page.lang | default: 'en' %}
+<header class="site-header">
+  <div class="wrap header-inner">
+    <a class="brand" href="/{{ lang }}/" aria-label="The MIT License home">
+      <span class="brand-name">THE MIT LICENSE<small>{% if lang == 'it' %}MANIFESTO INDIPENDENTE{% else %}INDEPENDENT MANIFESTO{% endif %}</small></span>
+    </a>
+    <button class="menu-toggle" type="button" aria-expanded="false" aria-controls="primary-nav">Menu <span aria-hidden="true">☰</span></button>
+    <nav id="primary-nav" class="nav" aria-label="Primary">
+      <a href="/{{ lang }}/manifesto/">Manifesto</a>
+      <a href="/{{ lang }}/adopt/">{% if lang == 'it' %}Adozione{% else %}Adopt{% endif %}</a>
+      <a href="/{{ lang }}/guide/">{% if lang == 'it' %}Guida{% else %}Guide{% endif %}</a>
+      <a href="/{{ lang }}/faq/">FAQ</a>
+      <a href="/{{ lang }}/about/">{% if lang == 'it' %}Progetto{% else %}About{% endif %}</a>
+      <a class="lang" href="{{ page.alternate | default: '/it/' }}">{% if lang == 'it' %}EN{% else %}IT{% endif %}</a>
+      <a class="nav-cta" href="/{{ lang }}/adopt/">{% if lang == 'it' %}Aggiungi al README ↗{% else %}Add to README ↗{% endif %}</a>
+    </nav>
+  </div>
+</header>
